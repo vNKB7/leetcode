@@ -28,18 +28,13 @@ public class ThreeSum {
 				int sum = nums[i] + nums[p] + nums[q];
 				
 				if (sum == 0) {
-					ArrayList<Integer> tmp = new ArrayList<Integer>();
-					tmp.add(nums[i]);
-					tmp.add(nums[p]);
-					tmp.add(nums[q]);
-					rt.add(tmp);
+					rt.add(Arrays.asList(nums[i], nums[p], nums[q]));
 					
 					while(++p < q && nums[p-1] == nums[p]){
 					}
 					
 					while(p < --q && nums[q] == nums[q+1]){
 					}
-					
 					
 				} else if (sum > 0) {
 					q--;
