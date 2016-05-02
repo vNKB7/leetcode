@@ -51,16 +51,30 @@ public class ReverseNodesinkGroup {
 			ListNode lastNext = lastNode.next;
 			
 			
-			while(headNode.next != lastPoint){
-				ListNode p = headNode;
-				
-				for(; p.next != lastPoint; p = p.next){
-					
-				}
-				
-				lastPoint.next = p;
-				lastPoint = lastPoint.next;
+			ListNode tail = headNode.next;
+			
+			for(int i = 0; i < k -1; i++){
+				ListNode next = tail.next;
+				tail.next = next.next;
+				next.next = headNode.next;
+				headNode.next = next;
 			}
+			
+			
+			
+			
+			
+			
+//			while(headNode.next != lastPoint){
+//				ListNode p = headNode;
+//				
+//				for(; p.next != lastPoint; p = p.next){
+//					
+//				}
+//				
+//				lastPoint.next = p;
+//				lastPoint = lastPoint.next;
+//			}
 			
 			ListNode tmp = headNode.next;//原本headNode所指向的下一个，这一轮翻转之后的最后一个
 			headNode.next = lastNode;
