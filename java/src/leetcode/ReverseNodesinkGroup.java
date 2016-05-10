@@ -42,52 +42,43 @@ public class ReverseNodesinkGroup {
 				}else{
 					lastNode = lastNode.next;
 				}
-			}
-			
-			if(rt == null)
-				rt = lastNode;
-			
-			ListNode lastPoint = lastNode;
-			ListNode lastNext = lastNode.next;
-			
+			}		
 			
 			ListNode tail = headNode.next;
 			
-			for(int i = 0; i < k -1; i++){
+			for(int i = 0; i < k - 1; i++){
 				ListNode next = tail.next;
 				tail.next = next.next;
 				next.next = headNode.next;
 				headNode.next = next;
 			}
 			
+			if(rt == null)
+				rt = headNode.next;
 			
-			
-			
-			
-			
-//			while(headNode.next != lastPoint){
-//				ListNode p = headNode;
-//				
-//				for(; p.next != lastPoint; p = p.next){
-//					
-//				}
-//				
-//				lastPoint.next = p;
-//				lastPoint = lastPoint.next;
-//			}
-			
-			ListNode tmp = headNode.next;//原本headNode所指向的下一个，这一轮翻转之后的最后一个
-			headNode.next = lastNode;
-			headNode = tmp;
-			
-			lastPoint.next = lastNext;
+			headNode = tail;
 		}
 
 	}
 
 	public static void main(String[] args) {
+		ReverseNodesinkGroup instance = new ReverseNodesinkGroup();
+		ListNode fakeHead = instance.new ListNode(-1);
+		for(int i = 10; i > 0; i--){
+			ListNode head = instance.new ListNode(i);
+			head.next = fakeHead.next;
+			fakeHead.next = head;
+		}
 		
-
+		ListNode cur = fakeHead.next;
+		ListNode rt = instance.reverseKGroup(cur, 3);
+		
+		
+		while(rt != null){
+			System.out.print(rt.val+" ");
+			rt = rt.next;
+		}
+		System.out.println();
 	}
 	
 
