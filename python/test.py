@@ -1,4 +1,10 @@
 #!/usr/bin/env python
-l = [1,4,2,5]
+
+
+for i in range(10):
+    if i == 3:
+        break
+
+print(i)
 
 
