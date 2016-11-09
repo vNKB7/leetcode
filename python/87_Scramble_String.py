@@ -15,7 +15,7 @@ class Solution(object):
         return self.helper(s1, s2)
 
 
-    def helper(self, s1, s2):
+    def helper(self, s1, s2):#this method is bad
         if s1 == s2:
             return True
 
