@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd36dde-d07e-4ff7-ba82-4f5808f54077" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/129_Sum_Root_to_Leaf_Numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/130_Surrounded_Regions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/131_Palindrome_Partitioning.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/132_Palindrome_Partitioning_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/133_Clone_Graph.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/134_Gas_Station.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/135_Candy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/136_Single_Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/137_Single_Number_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/138_Copy_List_with_Random_Pointer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/139_Word_Break.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/140_Word_Break_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/141_Linked_List_Cycle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/142_Linked_List_Cycle_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/143_Reorder_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/144_Binary_Tree_Preorder_Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/145_Binary_Tree_Postorder_Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/146_LRU_Cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147_Insertion_Sort_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/148_Sort_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/149_Max_Points_on_a_Line.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/127_Word_Ladder.py" afterPath="$PROJECT_DIR$/127_Word_Ladder.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py" afterPath="$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/143_Reorder_List.py" afterPath="$PROJECT_DIR$/143_Reorder_List.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,31 +30,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="142_Linked_List_Cycle_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/142_Linked_List_Cycle_II.py">
+      <file leaf-file-name="147_Insertion_Sort_List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/147_Insertion_Sort_List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="143_Reorder_List.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/143_Reorder_List.py">
+      <file leaf-file-name="148_Sort_List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/148_Sort_List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6081081">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="141_Linked_List_Cycle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/141_Linked_List_Cycle.py">
+      <file leaf-file-name="149_Max_Points_on_a_Line.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/149_Max_Points_on_a_Line.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="150_Evaluate_Reverse_Polish_Notation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="151_Reverse_Words_in_a_String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4595186">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Point.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListMethod.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListMethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -85,13 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/93_Restore_IP_Addresses.py" />
-        <option value="$PROJECT_DIR$/94_Binary_Tree_Inorder_Traversal.py" />
-        <option value="$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py" />
-        <option value="$PROJECT_DIR$/97_Interleaving_String.py" />
-        <option value="$PROJECT_DIR$/98_Validate_Binary_Search_Tree.py" />
-        <option value="$PROJECT_DIR$/99_Recover_Binary_Search_Tree.py" />
-        <option value="$PROJECT_DIR$/100_Same_Tree.py" />
         <option value="$PROJECT_DIR$/101_Symmetric_Tree.py" />
         <option value="$PROJECT_DIR$/102_Binary_Tree_Level_Order_Traversal.py" />
         <option value="$PROJECT_DIR$/103_Binary_Tree_Zigzag_Level_Order_Traversal.py" />
@@ -136,6 +159,13 @@
         <option value="$PROJECT_DIR$/141_Linked_List_Cycle.py" />
         <option value="$PROJECT_DIR$/142_Linked_List_Cycle_II.py" />
         <option value="$PROJECT_DIR$/143_Reorder_List.py" />
+        <option value="$PROJECT_DIR$/146_LRU_Cache.py" />
+        <option value="$PROJECT_DIR$/147_Insertion_Sort_List.py" />
+        <option value="$PROJECT_DIR$/148_Sort_List.py" />
+        <option value="$PROJECT_DIR$/Point.py" />
+        <option value="$PROJECT_DIR$/149_Max_Points_on_a_Line.py" />
+        <option value="$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py" />
+        <option value="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
       </list>
     </option>
   </component>
@@ -170,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -192,16 +221,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/leetcode/python/137_Single_Number_II.py" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py" />
   </component>
-  <component name="RunManager" selected="Python.142_Linked_List_Cycle_II">
-    <configuration default="false" name="136_Single_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.150_Evaluate_Reverse_Polish_Notation">
+    <configuration default="false" name="146_LRU_Cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,12 +243,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/136_Single_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/146_LRU_Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="138_Copy_List_with_Random_Pointer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="147_Insertion_Sort_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -230,12 +260,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/138_Copy_List_with_Random_Pointer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/147_Insertion_Sort_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="139_Word_Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="148_Sort_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -247,12 +277,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/139_Word_Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/148_Sort_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="140_Word_Break_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="149_Max_Points_on_a_Line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -264,12 +294,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/140_Word_Break_II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/149_Max_Points_on_a_Line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="142_Linked_List_Cycle_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="150_Evaluate_Reverse_Polish_Notation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -281,7 +311,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/142_Linked_List_Cycle_II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -409,19 +439,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.136_Single_Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.138_Copy_List_with_Random_Pointer" />
-      <item index="2" class="java.lang.String" itemvalue="Python.139_Word_Break" />
-      <item index="3" class="java.lang.String" itemvalue="Python.140_Word_Break_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.142_Linked_List_Cycle_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.146_LRU_Cache" />
+      <item index="1" class="java.lang.String" itemvalue="Python.147_Insertion_Sort_List" />
+      <item index="2" class="java.lang.String" itemvalue="Python.148_Sort_List" />
+      <item index="3" class="java.lang.String" itemvalue="Python.149_Max_Points_on_a_Line" />
+      <item index="4" class="java.lang.String" itemvalue="Python.150_Evaluate_Reverse_Polish_Notation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.142_Linked_List_Cycle_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.140_Word_Break_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.139_Word_Break" />
-        <item index="3" class="java.lang.String" itemvalue="Python.138_Copy_List_with_Random_Pointer" />
-        <item index="4" class="java.lang.String" itemvalue="Python.136_Single_Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.150_Evaluate_Reverse_Polish_Notation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.149_Max_Points_on_a_Line" />
+        <item index="2" class="java.lang.String" itemvalue="Python.148_Sort_List" />
+        <item index="3" class="java.lang.String" itemvalue="Python.147_Insertion_Sort_List" />
+        <item index="4" class="java.lang.String" itemvalue="Python.146_LRU_Cache" />
       </list>
     </recent_temporary>
   </component>
@@ -456,11 +486,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25302827" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26379544" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34589502" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4037685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4051144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -643,6 +673,26 @@
           <line>22</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/147_Insertion_Sort_List.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/148_Sort_List.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/149_Max_Points_on_a_Line.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -654,76 +704,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="149" />
+      <option name="time" value="160" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04055944">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/97_Interleaving_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14825174">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/101_Symmetric_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="11" selection-start-line="90" selection-start-column="0" selection-end-line="102" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/102_Binary_Tree_Level_Order_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7643678">
-          <caret line="49" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100_Same_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5804598">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/98_Validate_Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41954023">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="41" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/99_Recover_Binary_Search_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88505745">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103_Binary_Tree_Zigzag_Level_Order_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0057471264">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/104_Maximum_Depth_of_Binary_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="24" selection-start-line="15" selection-start-column="8" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5308411">
@@ -1005,22 +990,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/141_Linked_List_Cycle.py">
+    <entry file="file://$PROJECT_DIR$/146_LRU_Cache.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/142_Linked_List_Cycle_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state vertical-scroll-proportion="-1.8378378">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1028,7 +1004,87 @@
     <entry file="file://$PROJECT_DIR$/143_Reorder_List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6081081">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/142_Linked_List_Cycle_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04054054">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141_Linked_List_Cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04054054">
+          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147_Insertion_Sort_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/148_Sort_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33397314">
+          <caret line="2884" column="0" selection-start-line="2884" selection-start-column="0" selection-end-line="2884" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/149_Max_Points_on_a_Line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4595186">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
