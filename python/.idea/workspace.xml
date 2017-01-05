@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd36dde-d07e-4ff7-ba82-4f5808f54077" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/165_Compare_Version_Numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/168_Excel Sheet Column Title.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/169_Majority Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/171_Excel Sheet Column Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/172_Factorial Trailing Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/173_Binary Search Tree Iterator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/174_Dungeon Game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/179_Largest Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/187_Repeated DNA Sequences.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/188_Best Time to Buy and Sell Stock IV.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/164_Maximum_Gap.py" afterPath="$PROJECT_DIR$/164_Maximum_Gap.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,37 +35,27 @@
         <entry file="file://E:/python/py_util/my_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="194" column="117" selection-start-line="194" selection-start-column="10" selection-end-line="194" selection-end-column="117" />
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="166_Fraction_to_Recurring_Decimal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py">
+      <file leaf-file-name="187_Repeated DNA Sequences.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/187_Repeated DNA Sequences.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="167_Two Sum II - Input array is sorted.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py">
+      <file leaf-file-name="188_Best Time to Buy and Sell Stock IV.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/188_Best Time to Buy and Sell Stock IV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="168_Excel Sheet Column Title.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/168_Excel Sheet Column Title.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60431653">
-              <caret line="16" column="27" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.42769858">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,14 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/113_Path_Sum_II.py" />
-        <option value="$PROJECT_DIR$/114_Flatten_Binary_Tree_to_Linked_List.py" />
-        <option value="$PROJECT_DIR$/115_Distinct_Subsequences.py" />
-        <option value="$PROJECT_DIR$/116_Populating_Next_Right_Pointers_in_Each_Node.py" />
-        <option value="$PROJECT_DIR$/117_Populating_Next_Right_Pointers_in_Each_Node_II.py" />
-        <option value="$PROJECT_DIR$/118_Pascal's_Triangle.py" />
-        <option value="$PROJECT_DIR$/119_Pascal's_Triangle_II.py" />
-        <option value="$PROJECT_DIR$/120_Triangle.py" />
         <option value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
         <option value="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
         <option value="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
@@ -134,6 +119,14 @@
         <option value="$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py" />
         <option value="$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py" />
         <option value="$PROJECT_DIR$/168_Excel Sheet Column Title.py" />
+        <option value="$PROJECT_DIR$/171_Excel Sheet Column Number.py" />
+        <option value="$PROJECT_DIR$/172_Factorial Trailing Zeroes.py" />
+        <option value="$PROJECT_DIR$/173_Binary Search Tree Iterator.py" />
+        <option value="$PROJECT_DIR$/174_Dungeon Game.py" />
+        <option value="$PROJECT_DIR$/169_Majority Element.py" />
+        <option value="$PROJECT_DIR$/179_Largest Number.py" />
+        <option value="$PROJECT_DIR$/187_Repeated DNA Sequences.py" />
+        <option value="$PROJECT_DIR$/188_Best Time to Buy and Sell Stock IV.py" />
       </list>
     </option>
   </component>
@@ -168,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,7 +193,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,25 +201,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py" />
   </component>
-  <component name="RunManager" selected="Python.168_Excel Sheet Column Title">
-    <configuration default="false" name="my_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="E:/python/py_util" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py_util" />
-      <option name="SCRIPT_NAME" value="E:/python/py_util/my_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="164_Maximum_Gap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.187_Repeated DNA Sequences">
+    <configuration default="false" name="171_Excel Sheet Column Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -238,12 +214,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/164_Maximum_Gap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171_Excel Sheet Column Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="165_Compare_Version_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="172_Factorial Trailing Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,12 +231,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/165_Compare_Version_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/172_Factorial Trailing Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="166_Fraction_to_Recurring_Decimal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="174_Dungeon Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -272,12 +248,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/174_Dungeon Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="168_Excel Sheet Column Title" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="179_Largest Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -289,7 +265,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/168_Excel Sheet Column Title.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/179_Largest Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="187_Repeated DNA Sequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/187_Repeated DNA Sequences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -417,19 +410,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.my_sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.164_Maximum_Gap" />
-      <item index="2" class="java.lang.String" itemvalue="Python.165_Compare_Version_Numbers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.166_Fraction_to_Recurring_Decimal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.168_Excel Sheet Column Title" />
+      <item index="0" class="java.lang.String" itemvalue="Python.171_Excel Sheet Column Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.172_Factorial Trailing Zeroes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.174_Dungeon Game" />
+      <item index="3" class="java.lang.String" itemvalue="Python.179_Largest Number" />
+      <item index="4" class="java.lang.String" itemvalue="Python.187_Repeated DNA Sequences" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.168_Excel Sheet Column Title" />
-        <item index="1" class="java.lang.String" itemvalue="Python.166_Fraction_to_Recurring_Decimal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.165_Compare_Version_Numbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.164_Maximum_Gap" />
-        <item index="4" class="java.lang.String" itemvalue="Python.my_sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.187_Repeated DNA Sequences" />
+        <item index="1" class="java.lang.String" itemvalue="Python.179_Largest Number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.174_Dungeon Game" />
+        <item index="3" class="java.lang.String" itemvalue="Python.172_Factorial Trailing Zeroes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.171_Excel Sheet Column Number" />
       </list>
     </recent_temporary>
   </component>
@@ -464,11 +457,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25302827" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.218035" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21265142" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3001346" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.410498" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31359354" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -701,6 +694,16 @@
           <line>11</line>
           <option name="timeStamp" value="176" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/179_Largest Number.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/187_Repeated DNA Sequences.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -712,80 +715,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="177" />
+      <option name="time" value="180" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/117_Populating_Next_Right_Pointers_in_Each_Node_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="91" column="0" selection-start-line="63" selection-start-column="4" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/118_Pascal's_Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/119_Pascal's_Triangle_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="21" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/120_Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="26" selection-start-line="8" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="43" selection-start-line="3" selection-start-column="4" selection-end-line="43" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/124_Binary_Tree_Maximum_Path_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/125_Valid_Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6128405">
-          <caret line="15" column="0" selection-start-line="3" selection-start-column="4" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/126_Word_Ladder_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1007,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3898305">
           <caret line="2410" column="0" selection-start-line="2410" selection-start-column="0" selection-end-line="2410" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3043478">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="9" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7336956">
           <caret line="50" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,22 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/python/py_util/my_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="194" column="117" selection-start-line="194" selection-start-column="10" selection-end-line="194" selection-end-column="117" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/164_Maximum_Gap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09352518">
@@ -1074,26 +989,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79462105">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/168_Excel Sheet Column Title.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60431653">
+        <state vertical-scroll-proportion="0.47058824">
           <caret line="16" column="27" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029411765">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7647059">
+          <caret line="42" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/174_Dungeon Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/173_Binary Search Tree Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5845324">
+          <caret line="36" column="21" selection-start-line="9" selection-start-column="0" selection-end-line="36" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/172_Factorial Trailing Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60431653">
+          <caret line="16" column="22" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171_Excel Sheet Column Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.528777">
+          <caret line="14" column="18" selection-start-line="2" selection-start-column="0" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169_Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7553957">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/179_Largest Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/py_util/my_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/187_Repeated DNA Sequences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34215885">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/188_Best Time to Buy and Sell Stock IV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42769858">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
