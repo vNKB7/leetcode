@@ -7,11 +7,12 @@ class Solution(object):
         :rtype: bool
         """
 
-        visit = {}
+        visit = set()
         while n != 1:
             if n in visit:
                 return False
             else:
+                visit.add(n)
                 new_n = 0
                 while n != 0:
                     new_n += (n % 10) ** 2
@@ -21,4 +22,4 @@ class Solution(object):
         return True
 
 s = Solution()
-print(s.isHappy(19))
+print(s.isHappy(7))
