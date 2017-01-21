@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd36dde-d07e-4ff7-ba82-4f5808f54077" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/210_Course Schedule II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/211_Add and Search Word - Data structure design.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/212_Word Search II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/213_House Robber II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/214_Shortest Palindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/215_Kth Largest Element in an Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/216_Combination Sum III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/217_Contains Duplicate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/218_The Skyline Problem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/219_Contains Duplicate II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/220_Contains Duplicate III.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/214_Shortest Palindrome.py" afterPath="$PROJECT_DIR$/214_Shortest Palindrome.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,41 +30,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="212_Word Search II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/212_Word Search II.py">
+      <file leaf-file-name="218_The Skyline Problem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/218_The Skyline Problem.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <caret line="59" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="213_House Robber II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/213_House Robber II.py">
+      <file leaf-file-name="219_Contains Duplicate II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/219_Contains Duplicate II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="26" />
+              <caret line="22" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="214_Shortest Palindrome.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/214_Shortest Palindrome.py">
+      <file leaf-file-name="220_Contains Duplicate III.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/220_Contains Duplicate III.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06476684">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="198_House Robber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/198_House Robber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.71243525">
+              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -83,12 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/142_Linked_List_Cycle_II.py" />
-        <option value="$PROJECT_DIR$/143_Reorder_List.py" />
-        <option value="$PROJECT_DIR$/146_LRU_Cache.py" />
-        <option value="$PROJECT_DIR$/147_Insertion_Sort_List.py" />
-        <option value="$PROJECT_DIR$/148_Sort_List.py" />
-        <option value="$PROJECT_DIR$/Point.py" />
         <option value="$PROJECT_DIR$/149_Max_Points_on_a_Line.py" />
         <option value="$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py" />
         <option value="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
@@ -134,6 +120,12 @@
         <option value="$PROJECT_DIR$/212_Word Search II.py" />
         <option value="$PROJECT_DIR$/213_House Robber II.py" />
         <option value="$PROJECT_DIR$/214_Shortest Palindrome.py" />
+        <option value="$PROJECT_DIR$/215_Kth Largest Element in an Array.py" />
+        <option value="$PROJECT_DIR$/216_Combination Sum III.py" />
+        <option value="$PROJECT_DIR$/217_Contains Duplicate.py" />
+        <option value="$PROJECT_DIR$/218_The Skyline Problem.py" />
+        <option value="$PROJECT_DIR$/219_Contains Duplicate II.py" />
+        <option value="$PROJECT_DIR$/220_Contains Duplicate III.py" />
       </list>
     </option>
   </component>
@@ -168,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,7 +182,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,8 +190,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py" />
   </component>
-  <component name="RunManager" selected="Python.214_Shortest Palindrome">
-    <configuration default="false" name="207_Course Schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.220_Contains Duplicate III">
+    <configuration default="false" name="215_Kth Largest Element in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -211,12 +203,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/207_Course Schedule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/215_Kth Largest Element in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="210_Course Schedule II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="216_Combination Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -228,12 +220,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210_Course Schedule II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/216_Combination Sum III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="211_Add and Search Word - Data structure design" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="218_The Skyline Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -245,12 +237,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/211_Add and Search Word - Data structure design.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/218_The Skyline Problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="212_Word Search II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="219_Contains Duplicate II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -262,12 +254,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/212_Word Search II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/219_Contains Duplicate II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="214_Shortest Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="220_Contains Duplicate III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -279,7 +271,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/214_Shortest Palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220_Contains Duplicate III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -407,19 +399,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.207_Course Schedule" />
-      <item index="1" class="java.lang.String" itemvalue="Python.210_Course Schedule II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.211_Add and Search Word - Data structure design" />
-      <item index="3" class="java.lang.String" itemvalue="Python.212_Word Search II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.214_Shortest Palindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Python.215_Kth Largest Element in an Array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.216_Combination Sum III" />
+      <item index="2" class="java.lang.String" itemvalue="Python.218_The Skyline Problem" />
+      <item index="3" class="java.lang.String" itemvalue="Python.219_Contains Duplicate II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.220_Contains Duplicate III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.214_Shortest Palindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Python.212_Word Search II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.211_Add and Search Word - Data structure design" />
-        <item index="3" class="java.lang.String" itemvalue="Python.210_Course Schedule II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.207_Course Schedule" />
+        <item index="0" class="java.lang.String" itemvalue="Python.220_Contains Duplicate III" />
+        <item index="1" class="java.lang.String" itemvalue="Python.219_Contains Duplicate II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.218_The Skyline Problem" />
+        <item index="3" class="java.lang.String" itemvalue="Python.216_Combination Sum III" />
+        <item index="4" class="java.lang.String" itemvalue="Python.215_Kth Largest Element in an Array" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +450,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44353518" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37806875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -736,9 +728,19 @@
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/214_Shortest Palindrome.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="202" />
+          <url>file://$PROJECT_DIR$/215_Kth Largest Element in an Array.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/216_Combination Sum III.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/219_Contains Duplicate II.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="205" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -751,56 +753,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="203" />
+      <option name="time" value="206" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/148_Sort_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Point.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32166302">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/149_Max_Points_on_a_Line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/150_Evaluate_Reverse_Polish_Notation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/152_Maximum_Product_Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50547045">
-          <caret line="23" column="25" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3898305">
@@ -1055,7 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44158074">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="25" selection-start-line="10" selection-start-column="8" selection-end-line="32" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,19 +1053,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/212_Word Search II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/79_Word_Search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4145077">
           <caret line="28" column="45" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,6 +1064,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215_Kth Largest Element in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/216_Combination Sum III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58290154">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/217_Contains Duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6476684">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/214_Shortest Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -1131,10 +1108,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/214_Shortest Palindrome.py">
+    <entry file="file://$PROJECT_DIR$/212_Word Search II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06476684">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/218_The Skyline Problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/219_Contains Duplicate II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/220_Contains Duplicate III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71243525">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
           <folding />
         </state>
       </provider>
