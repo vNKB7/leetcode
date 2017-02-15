@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd36dde-d07e-4ff7-ba82-4f5808f54077" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/222_Count Complete Tree Nodes.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/223_Rectangle Area.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/224_Basic Calculator.py" />
@@ -9,6 +10,21 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/226_Invert Binary Tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/221_Maximal Square.py" afterPath="$PROJECT_DIR$/221_Maximal Square.py" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/224_Basic Calculator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/227_Basic Calculator II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/228_Summary Ranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/229_Majority Element II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/230_Kth Smallest Element in a BST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/231_Power of Two.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/232_Implement Queue using Stacks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/233_Number of Digit One.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/234_Palindrome Linked List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +45,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="226_Invert Binary Tree.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/226_Invert Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.91347754">
               <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+=======
+      <file leaf-file-name="233_Number of Digit One.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/233_Number of Digit One.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="234_Palindrome Linked List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/234_Palindrome Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5632184">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
               <folding />
             </state>
           </provider>
@@ -54,10 +88,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/155_Min_Stack.py" />
         <option value="$PROJECT_DIR$/160_Intersection_of_Two_Linked_Lists.py" />
         <option value="$PROJECT_DIR$/162_Find_Peak_Element.py" />
         <option value="E:/python/py_util/counting_sort.py" />
+=======
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
         <option value="E:/python/py_util/my_sort.py" />
         <option value="$PROJECT_DIR$/164_Maximum_Gap.py" />
         <option value="$PROJECT_DIR$/165_Compare_Version_Numbers.py" />
@@ -100,19 +137,31 @@
         <option value="$PROJECT_DIR$/219_Contains Duplicate II.py" />
         <option value="$PROJECT_DIR$/220_Contains Duplicate III.py" />
         <option value="$PROJECT_DIR$/221_Maximal Square.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/222_Count Complete Tree Nodes.py" />
         <option value="$PROJECT_DIR$/223_Rectangle Area.py" />
         <option value="$PROJECT_DIR$/224_Basic Calculator.py" />
         <option value="$PROJECT_DIR$/225_Implement Stack using Queues.py" />
         <option value="$PROJECT_DIR$/226_Invert Binary Tree.py" />
+=======
+        <option value="$PROJECT_DIR$/224_Basic Calculator.py" />
+        <option value="$PROJECT_DIR$/227_Basic Calculator II.py" />
+        <option value="$PROJECT_DIR$/228_Summary Ranges.py" />
+        <option value="$PROJECT_DIR$/229_Majority Element II.py" />
+        <option value="$PROJECT_DIR$/230_Kth Smallest Element in a BST.py" />
+        <option value="$PROJECT_DIR$/231_Power of Two.py" />
+        <option value="$PROJECT_DIR$/232_Implement Queue using Stacks.py" />
+        <option value="$PROJECT_DIR$/233_Number of Digit One.py" />
+        <option value="$PROJECT_DIR$/234_Palindrome Linked List.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -139,6 +188,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,8 +210,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,42 +218,13 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.224_Basic Calculator">
     <configuration default="false" name="219_Contains Duplicate II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/219_Contains Duplicate II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="220_Contains Duplicate III" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220_Contains Duplicate III.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+=======
+  <component name="RunManager" selected="Python.233_Number of Digit One">
     <configuration default="false" name="221_Maximal Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -216,29 +236,20 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/219_Contains Duplicate II.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/221_Maximal Square.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="222_Count Complete Tree Nodes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/222_Count Complete Tree Nodes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="220_Contains Duplicate III" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration default="false" name="224_Basic Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,7 +261,86 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220_Contains Duplicate III.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/224_Basic Calculator.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="221_Maximal Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="227_Basic Calculator II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/221_Maximal Square.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/227_Basic Calculator II.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="222_Count Complete Tree Nodes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="228_Summary Ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/222_Count Complete Tree Nodes.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/228_Summary Ranges.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="224_Basic Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="233_Number of Digit One" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/224_Basic Calculator.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/233_Number of Digit One.py" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -378,6 +468,7 @@
       <method />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.219_Contains Duplicate II" />
       <item index="1" class="java.lang.String" itemvalue="Python.220_Contains Duplicate III" />
       <item index="2" class="java.lang.String" itemvalue="Python.221_Maximal Square" />
@@ -391,6 +482,21 @@
         <item index="2" class="java.lang.String" itemvalue="Python.221_Maximal Square" />
         <item index="3" class="java.lang.String" itemvalue="Python.220_Contains Duplicate III" />
         <item index="4" class="java.lang.String" itemvalue="Python.219_Contains Duplicate II" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.221_Maximal Square" />
+      <item index="1" class="java.lang.String" itemvalue="Python.224_Basic Calculator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.227_Basic Calculator II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.228_Summary Ranges" />
+      <item index="4" class="java.lang.String" itemvalue="Python.233_Number of Digit One" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.233_Number of Digit One" />
+        <item index="1" class="java.lang.String" itemvalue="Python.228_Summary Ranges" />
+        <item index="2" class="java.lang.String" itemvalue="Python.227_Basic Calculator II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.224_Basic Calculator" />
+        <item index="4" class="java.lang.String" itemvalue="Python.221_Maximal Square" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       </list>
     </recent_temporary>
   </component>
@@ -417,9 +523,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16069546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23943663" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
@@ -431,6 +538,18 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31744313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15937941" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2395693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.50564176" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26110363" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.218035" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25841185" sideWeight="0.49435824" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3768506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -741,6 +860,11 @@
           <line>37</line>
           <option name="timeStamp" value="210" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/227_Basic Calculator II.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -752,11 +876,16 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
+<<<<<<< HEAD
       <option name="time" value="211" />
+=======
+      <option name="time" value="208" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/167_Two Sum II - Input array is sorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.029411765">
@@ -764,6 +893,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
     <entry file="file://$PROJECT_DIR$/166_Fraction_to_Recurring_Decimal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7647059">
@@ -1057,14 +1188,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/220_Contains Duplicate III.py">
+    <entry file="file://$PROJECT_DIR$/221_Maximal Square.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7270694">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.09090909">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/220_Contains Duplicate III.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.7270694">
+=======
+        <state vertical-scroll-proportion="0.4125874">
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/228_Summary Ranges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63793105">
+          <caret line="24" column="21" selection-start-line="2" selection-start-column="0" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/227_Basic Calculator II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2471265">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/145_Binary_Tree_Postorder_Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.64891845">
@@ -1093,46 +1251,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+=======
+    <entry file="file://$PROJECT_DIR$/224_Basic Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07471264">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/231_Power of Two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23529412">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/222_Count Complete Tree Nodes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="129" column="24" selection-start-line="129" selection-start-column="24" selection-end-line="129" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/230_Kth Smallest Element in a BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23529412">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/223_Rectangle Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+=======
+    <entry file="file://$PROJECT_DIR$/229_Majority Element II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7647059">
+          <caret line="34" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/224_Basic Calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/232_Implement Queue using Stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75769234">
+          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/225_Implement Stack using Queues.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35108152">
           <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+=======
+    <entry file="file://$PROJECT_DIR$/233_Number of Digit One.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/226_Invert Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.91347754">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/234_Palindrome Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5632184">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+>>>>>>> 0d0654174e1423c618c5c4c80d7d11be84a1183e
           <folding />
         </state>
       </provider>
