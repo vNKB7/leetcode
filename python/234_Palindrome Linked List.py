@@ -82,8 +82,6 @@ class Solution(object):
         return not rev
 
 
-
-
 head = getList([1,2,2,1])
 s = Solution()
 print s.isPalindrome(head)
