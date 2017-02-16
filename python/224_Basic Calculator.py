@@ -34,3 +34,4 @@ class Solution(object):
 
 s = Solution()
 print s.calculate("(1)")
+

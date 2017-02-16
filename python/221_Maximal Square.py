@@ -13,6 +13,8 @@ class Solution(object):
 
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
+                if i == 1 and j == 2:
+                    print 1
                 if matrix[i][j] == '1':
                     start = max_edge
                     end = min(len(matrix)-i-1, len(matrix[0])-j-1)
@@ -38,7 +40,10 @@ class Solution(object):
             if matrix[i+c][j+c] != '1':
                 return c
 
-        return end
+        return end+1
 
 s = Solution()
-print s.maximalSquare(["10100","10111","11111","10111"])
+print s.maximalSquare(["10100",
+                       "10111",
+                       "10111",
+                       "10111"])
