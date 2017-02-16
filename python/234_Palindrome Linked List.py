@@ -12,5 +12,5 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        
+
 
