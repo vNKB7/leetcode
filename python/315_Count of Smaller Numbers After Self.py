@@ -1,7 +1,8 @@
 #!/usr/bin/env python2
-#coding=utf-8
+#coding=utf8
 
 '''
+#最朴素的方法，O(n^2)，不能通过测试
 class Solution(object):
     def countSmaller(self, nums):
         """
@@ -20,21 +21,30 @@ class Solution(object):
         return count
 '''
 
+# 使用稳定排序，排序过程中从一个数左边移动到右边的数就是比他小的数
 class Solution(object):
     def countSmaller(self, nums):
         """
         :type nums: List[int]
         :rtype: List[int]
         """
-        length = len(nums)
-        count = [0] * length
-        for i in range(length):
-            sub_count = 0
-            for j in range(i+1, length):
-                if nums[i] > nums[j]:
-                    sub_count += 1
-            count[i] = sub_count
-        return count
+        def sort(enum):
+            half = len(enum) / 2
+            if half:
+                left, right = sort(enum[:half]), sort(enum[half:])
+                for i in range(len(enum))[::-1]:
+                    if not right or left and left[-1][1] > right[-1][1]:
+                        enum[i] = left.pop()
+                        smaller[enum[i][0]] += len(right)
+                    else:
+                        enum[i] = right.pop()
+            return enum
+
+        smaller = [0] * len(nums)
+        sort(list(enumerate(nums)))
+
+        return smaller
+
 
 s = Solution()
 #print s.countSmaller([5,2,6,1])
