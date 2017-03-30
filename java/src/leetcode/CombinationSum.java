@@ -32,7 +32,7 @@ public class CombinationSum {
 	}
 
 	public static void main(String[] args) {
-		List<List<Integer>> result = new CombinationSum().combinationSum(new int[]{2,3,6,7}, 7);
+		List<List<Integer>> result = new CombinationSum().combinationSum(new int[]{92,71,89,74,102,91,70,119,86,116,114,106,80,81,115,99,117,93,76,77,111,110,75,104,95,112,94,73}, 310);
 
 		for(int i = 0; i < result.size(); i++){
 			List<Integer> tmp = result.get(i);

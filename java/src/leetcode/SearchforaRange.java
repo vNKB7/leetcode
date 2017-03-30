@@ -4,40 +4,44 @@ public class SearchforaRange {
 
 	public int[] searchRange(int[] nums, int target) {
 		int[] range = new int[2];
-		
-		int index = binarySearch(0, nums.length - 1, nums, target);
-		
-		if(index == -1){
+		if (nums.length == 0) {
 			range[0] = -1;
 			range[1] = -1;
-		}else{
+			return range;
+		}
+		int index = binarySearch(0, nums.length - 1, nums, target);
+
+		if (index == -1) {
+			range[0] = -1;
+			range[1] = -1;
+		} else {
 			int start = 0;
-			for(start = index-1; start >= 0; start--){
-				if(nums[start] != target){
+			for (start = index - 1; start >= 0; start--) {
+				if (nums[start] != target) {
 					break;
 				}
 			}
-			
-			if(start == 0 && nums[start] == target){
+
+			if (start == 0 && nums[start] == target) {
 				range[0] = 0;
-			}else{
+			} else {
 				range[0] = start + 1;
 			}
-			
+
 			int end = 0;
-			for(end = index+1; end < nums.length; end++){
-				if(nums[end] != target){
+			for (end = index + 1; end < nums.length; end++) {
+				if (nums[end] != target) {
 					break;
 				}
 			}
-			
-			if(end == nums.length - 1 && nums[end] == target){
+
+			if (end == nums.length - 1 && nums[end] == target) {
 				range[1] = end;
-			}else{
+			} else {
 				range[1] = end - 1;
 			}
 		}
-		
+
 		return range;
 	}
 
@@ -57,16 +61,17 @@ public class SearchforaRange {
 						return i;
 					}
 				}
-			}else{
+			} else {
 				int index = -1;
-				
-				index = binarySearch(start+1, (start+end)/2, nums, target);
-				if(index != -1){
+
+				index = binarySearch(start + 1, (start + end) / 2, nums, target);
+				if (index != -1) {
 					return index;
 				}
-				
-				index = binarySearch((start+end)/2 + 1, end-1, nums, target);
-				if(index != -1){
+
+				index = binarySearch((start + end) / 2 + 1, end - 1, nums,
+						target);
+				if (index != -1) {
 					return index;
 				}
 			}
