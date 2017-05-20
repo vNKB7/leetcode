@@ -48,7 +48,7 @@ public class ThreeSum {
 	}
 
 	public static void main(String args[]) {
-		int[] nums = new int[] {-2,-3,0,0,0,-2,5,7,8};
+		int[] nums = new int[] {-8, 4, 4, 4, 4};
 
 		List<List<Integer>> result = new ThreeSum().threeSum(nums);
 

@@ -5,21 +5,19 @@ import java.util.List;
 
 public class _22_Generate_Parentheses {
 	public List<String> generateParenthesis(int n) {
-		List<String> result = new ArrayList<String>();
-		helper(result, "", n, 0);
-		return result;
+		return helper("", n, 0);
 	}
 
-	public List<String> helper(List<String> result, String prefix, int left,
-			int right) {
+	public List<String> helper(String prefix, int left, int right) {
+		List<String> result = new ArrayList<String>();
 		if (left == 0 && right == 0) {
 			result.add(prefix);
 		} else {
 			if (left > 0) {
-				helper(result, prefix + "(", left - 1, right + 1);
+				result.addAll(helper(prefix + "(", left - 1, right + 1));
 			}
 			if (right > 0) {
-				helper(result, prefix + ")", left, right - 1);
+				result.addAll(helper(prefix + ")", left, right - 1));
 			}
 		}
 		return result;

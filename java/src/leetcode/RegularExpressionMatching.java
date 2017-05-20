@@ -75,7 +75,7 @@ public class RegularExpressionMatching {
 	
 	public static void main(String[] args) {
 		RegularExpressionMatching s = new RegularExpressionMatching();
-		
+		System.out.println(s.isMatch("aaa", "a.*a"));
 		//System.out.println(s.isMatch("aaa", "aa"));
 //		System.out.println(s.isMatch("aa", "a*"));
 //		System.out.println(s.isMatch("aa", ".*"));

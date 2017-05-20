@@ -9,7 +9,7 @@ public class _39_Combination_Sum {
 	List<List<Integer>> result = new ArrayList<List<Integer>>();
 
 	public List<List<Integer>> combinationSum(int[] candidates, int target) {
-		Arrays.sort(candidates);
+
 		if (candidates.length == 0) {
 			return new ArrayList<List<Integer>>();
 		}
@@ -17,24 +17,6 @@ public class _39_Combination_Sum {
 		help(candidates, 0, prefix, target);
 		return result;
 	}
-
-	// public void help(int[] candidates, int can_index, List<Integer> prefix,
-	// int target) {
-	// if (can_index == candidates.length) {
-	// if (target == 0)
-	// result.add(prefix);
-	// } else {
-	// int c = candidates[can_index];
-	// List<Integer> cur = prefix;
-	// help(candidates, can_index + 1, cur, target);
-	// while (target - c >= 0) {
-	// cur = new ArrayList<Integer>(cur);
-	// cur.add(c);
-	// help(candidates, can_index + 1, cur, target - c);
-	// target -= c;
-	// }
-	// }
-	// }
 
 	public void help(int[] candidates, int can_index, List<Integer> prefix,
 			int target) {
