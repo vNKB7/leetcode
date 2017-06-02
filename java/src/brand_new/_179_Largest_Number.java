@@ -14,22 +14,7 @@ public class _179_Largest_Number {
 
 			@Override
 			public int compare(String o1, String o2) {
-				if(o1.equals(o2))
-					return 0;
-				if(o1.length() > o2.length() || o1.length() == o2.length() && o1.compareTo(o2) >= 0){
-					String t = o1;
-					o1 = o2;
-					o2 = t;
-				}
-				for(int i = 0; i < o1.length(); i++){
-					if(o1.charAt(i) < o2.charAt(i))
-						return 1;
-					else if(o1.charAt(i) > o2.charAt(i))
-						return -1;
-				}
-				if(o1.length() == o2.length())
-					return 0;
-				return o2.charAt(o1.length()) > o2.charAt(0) ? -1 : 1;
+				return (o2+o1).compareTo((o1+o2));
 			}
 		});
 		String result = "";
