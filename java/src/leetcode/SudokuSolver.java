@@ -10,16 +10,17 @@ public class SudokuSolver {
 
 		for (int i = 0; i < 9; i++) {
 			for (int j = 0; j < 9; j++) {
-				Iboard[i][j] = board[i][j] == '.' ? -1 : (board[i][j] - '0')-1;
+				Iboard[i][j] = board[i][j] == '.' ? -1
+						: (board[i][j] - '0') - 1;
 			}
 		}
 
 		checkOneByOne(0, Iboard);
-		
+
 		for (int i = 0; i < 9; i++) {
 			for (int j = 0; j < 9; j++) {
-				board[i][j] = (char) ('0'+(Iboard[i][j]+1));
-				System.out.print(board[i][j]+" ");
+				board[i][j] = (char) ('0' + (Iboard[i][j] + 1));
+				System.out.print(board[i][j] + " ");
 			}
 			System.out.println();
 		}
@@ -34,7 +35,7 @@ public class SudokuSolver {
 				break;
 			}
 		}
-		
+
 		if (index == 81)
 			return true;
 
@@ -50,7 +51,7 @@ public class SudokuSolver {
 				return true;
 			}
 		}
-		
+
 		board[x][y] = -1;
 		return false;
 	}
@@ -78,11 +79,11 @@ public class SudokuSolver {
 				}
 			}
 		}
-		
+
 		ArrayList<Integer> list = new ArrayList<Integer>();
-		
-		for(int i = 0; i < valid.length; i++){
-			if(valid[i] == 0){
+
+		for (int i = 0; i < valid.length; i++) {
+			if (valid[i] == 0) {
 				list.add(i);
 			}
 		}
@@ -92,14 +93,16 @@ public class SudokuSolver {
 
 	public static void main(String[] args) {
 		char[][] board = new char[9][9];
-		String[] str = new String[]{"..9748...","7........",".2.1.9...","..7...24.",".64.1.59.",".98...3..","...8.3.2.","........6","...2759.."};
-		for(int i = 0; i < 9; i++){
-			for(int j = 0; j < 9; j++){
+		String[] str = new String[] { "7269.4.51", ".8.6.7432", "341.85..9",
+				".52468..7", ".37...68.", ".9...3.1.", ".........",
+				"9...215..", "8..3....." };
+		for (int i = 0; i < 9; i++) {
+			for (int j = 0; j < 9; j++) {
 				board[i][j] = str[i].charAt(j);
 			}
 		}
 		new SudokuSolver().solveSudoku(board);
-		
+
 	}
-	
+
 }
