@@ -1,6 +1,6 @@
 package brand_new;
 
-public class Interval {
+class Interval {
 	int start;
 	int end;
 
